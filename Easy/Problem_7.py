@@ -6,6 +6,8 @@
 # @File    : Problem_7.py
 # @Software: PyCharm
 """
+Title: Reverse Integer
+
 问题描述
 Given a 32-bit signed integer, reverse digits of an integer.
 （给定一个32位的有符号整数，求这个整数的反向数字）
